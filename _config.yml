@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: YUHA                          # the main title
+title: YUHA👩🏻‍💻                        # the main title
 
-tagline: A developer who seek out big dream   # it will display as the sub-title
+tagline: 「A developer who seeks out big dream」   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
