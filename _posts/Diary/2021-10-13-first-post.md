@@ -1,18 +1,16 @@
 ---
 title:  "[Diary] First post"
+date: 2021-10-13 12:19PM
 excerpt: "Finally I completed to make my own github blog"
 
 author: Yuha
-categories:
-  - diary
-tags:
-  - [diary, eng]
+categories: [Diary]
+tags: [diary, eng]
 
 #toc: true
 #toc_sticky: true
- 
-date: 2021-10-13 12:19PM
-last_modified_at: 2021-10-13 12:17PM
+
+last_modified_at: 2021-10-13 1:57PM
 ---
 
 ## The purpose of this blog
