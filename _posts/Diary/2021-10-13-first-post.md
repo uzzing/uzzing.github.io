@@ -33,7 +33,7 @@ Btw, `the reason why I make a blog` is..
 I'm quite excited and curious about what I'll record afterwards.
 
 I felt that it's quite difficult to make and post a github blog or use markdown lang while doing first, but it was nothing when I look back hh.
-Yes, you don't know exactly and you can be sure before you actually try it.
+Yes, you don't know exactly and you can't be sure before you actually try it.
 
 ```
 Let's do my best everyday
