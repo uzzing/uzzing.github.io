@@ -1,6 +1,6 @@
 ---
 title:  "[Algorithm] Caterpillar method 2"
-date: 2021-10-17 11:02PM
+date: 2021-10-17 11:02AM
 excerpt: "coding test"
 
 author: Yuha
@@ -10,11 +10,12 @@ tags: [algorithm, java, eng, codility]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-17 11:02PM
+last_modified_at: 2021-10-17 11:02AM
 ---
 [See previous post](https://uzzing.github.io/posts/algorithm-caterpillar/)
+
 ## Tasks
-### `3. CountTriangles` in codility (Lesson 15)
+### **`3. CountTriangles`** in codility (Lesson 15)
 : Count the number of triangles that can be built from a given set of edges.
 
 
