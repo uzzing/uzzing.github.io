@@ -5,7 +5,7 @@ excerpt: "coding test"
 
 author: Yuha
 categories: [Development, Algorithm]
-tags: [algorithm, java, eng]
+tags: [algorithm, java, eng, codility]
 
 #toc: true
 #toc_sticky: true
@@ -23,7 +23,7 @@ last_modified_at: 2021-10-16 7:31PM
 ---
 
 ## Tasks
-#### `1. AbsDistinct ` in codility (Lesson 15)
+### `1. AbsDistinct ` in codility (Lesson 15)
 : Compute number of distinct absolute values of sorted array elements
 
 #### ⭐️ `The point`
@@ -49,7 +49,7 @@ class Solution {
 ```
 
 #### ⭐️ `Review`
-##### Set : no sequence, no duplicate
+#### Set : no sequence, no duplicate
 | **class** | features | method |
 |:---:|:---:|:---:|
 |**HashSet**|	순서가 필요없는 데이터를 hash table에 저장. Set 중에 가장 성능이 좋음| add(), size(), equals(), hashCode(), removeAll() |
@@ -78,7 +78,7 @@ Write an efficient algorithm for the following assumptions:
 
 --- 
  
-#### `2. CountDistinctSlices` in codility (Lesson 15)
+### `2. CountDistinctSlices` in codility (Lesson 15)
 : Count the number of distinct slices (containing only unique numbers)
 
 It's quite difficult.....
@@ -145,35 +145,12 @@ Write an efficient algorithm for the following assumptions:
     - each element of array A is an integer within the range [0..M].
 ```
 
---- 
-
-#### `3. CountTriangles` in codility (Lesson 15)
-: Count the number of triangles that can be built from a given set of edges.
-
-
-```java
-class Solution {
-    public int solution(int[] A) {
-
-        
-    }
-}
-```
-
-
-#### `Question`
-```
-
-```
-
-
-
 ---
 ### `New words`
 
 
-reminiscent 連想させる
-contiguous 連続的な
-subsequence 次
-compute 計算する
-distinct absolute values 絶対値
+- reminiscent 連想させる
+- contiguous 連続的な
+- subsequence 次
+- compute 計算する
+- distinct absolute values 絶対値

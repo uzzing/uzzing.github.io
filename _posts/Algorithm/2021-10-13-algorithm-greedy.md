@@ -5,7 +5,7 @@ excerpt: "coding test"
 
 author: Yuha
 categories: [Development, Algorithm]
-tags: [algorithm, java, eng]
+tags: [algorithm, java, eng, codility]
 
 #toc: true
 #toc_sticky: true
@@ -78,7 +78,7 @@ Write an efficient algorithm for the following assumptions:
 
 ```java
 class Solution { 
-    public int solution(int[] A, int[] B) {
+    public int solution(int K, int[] A) {
         // return count when the sum is greater than or equals to K
 
         int count = 0;
