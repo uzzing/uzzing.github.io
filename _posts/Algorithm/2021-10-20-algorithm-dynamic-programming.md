@@ -10,7 +10,7 @@ tags: [algorithm, java, eng, codility]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-20 1:15AM
+last_modified_at: 2021-10-20 1:35AM
 ---
 
 I've mentioned this before, but I'm gonna explain it in more detail.
@@ -25,12 +25,14 @@ and
 2️⃣ stores the results of subproblems to avoid computing the same results again
 ```
 ---
-`Memoization` ⭐️⭐️⭐️⭐️⭐️
+### `Memoization` 
 
-: **1.** make dynamic table and **store the results** of expensive function calls for do later things.
-: **2.** When you do the next task, **you calculate it by looking at the values stored in the table,** it's not calculating it from the beginning. 
+**1.** make dynamic table and **store the results** of expensive function calls for do later things.
 
-`Condition (Property)`
+**2.** When you do the next task, **you calculate it by looking at the values stored in the table,** it's not calculating it from the beginning. 
+
+
+### `Condition (Property)`
 : **1. Optimal substructure**
     : - An optimal solution to the problem contains an optimal solution to subproblems.
 
@@ -38,15 +40,15 @@ and
     : - A problem have overlapping **subproblems which are reused several times or a recursive algorithm** for the problem **solves the same subproblem** over and over rather than always generating new subproblems.
 
 
-`Example`
+### `Example`
 : - Assembly Line Problem
 : - Matrix Chain Multiplication Problem
 : - 0/1 Knapsack Problem 
 
 
 ---
-**`⭐️ Plus`**
-####**'Dynamic programming' 🆚 'Divide and conquer algorithm'**
+### **`⭐️ Plus`**
+#### **'Dynamic programming' 🆚 'Divide and conquer algorithm'**
 - **`Common feature`**
 ```
 solve an optimization problem 
