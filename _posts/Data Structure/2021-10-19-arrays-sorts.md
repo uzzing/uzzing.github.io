@@ -19,7 +19,7 @@ last_modified_at: 2021-10-19 1:31PM
 1️⃣ sort the datas of array or list ascending order or descending order
 ```
 ## Sort array
-###**`Arrays.sort()`**
+### `Arrays.sort()`
 the primitive way to sort **array** until Java7
 ```java
 // Ascending order
@@ -38,7 +38,8 @@ Arrays.sort(array, (int x[] - int y[] -> x[0] - y[0]))
 ```
 
 ## Sort list
-###**`1. Collections.sort()`**
+### **`1. Collections.sort()`**
+
 the way to sort **list** until Java7
 
 ```java
@@ -70,7 +71,8 @@ public class Sort {
 }
 ```
 
-###**`2. List.sort()`**
+### **`2. List.sort()`**
+
 the ways to sort **list** from Java8
 
 ```java
@@ -128,6 +130,6 @@ public class Sort {
 ```
 ---
 
-### `New words`
+### `Important words`
 - ascending  
 - descending

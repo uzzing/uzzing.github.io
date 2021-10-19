@@ -23,9 +23,9 @@ It is based on divide and conquer algorithm
 ![quick-sort](https://user-images.githubusercontent.com/83699657/137864838-bf636663-6bb8-483d-ab35-1272f7cfa7b4.png)
 
 ---
+### `Implementation`
 
-###**`Implementation`**
-####`⭐️ The point`
+#### `⭐️ The point`
 - quickSort() : main
 - sort()
 - partition()
