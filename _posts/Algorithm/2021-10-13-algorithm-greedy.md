@@ -10,18 +10,42 @@ tags: [algorithm, java, eng, codility]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-16 11:04AM
+last_modified_at: 2021-10-20 12:43AM
 ---
 
 ### What is greedy algorithm?
 ```text
-1️⃣ We choose the best decision from the viewpoint of the current stage of the solution.
+1️⃣ The algorithm makes the optimal choice at each step 
+    as it attempts to find the overall optimal way to solve the entire problem.
+    (like who greedily want to do what he want at the moment, not for future)
 
 2️⃣ If it is not the best approach, then it often returns a result which is approximately correct but suboptimal.
 ```
+---
+`Advantages`
+: - solutions to smaller instances of the problem can be **straightforward and easy to understand**
+: - Greedy methods are generally **faster** than dynamic programming.
+
+`Disadvantages`
+: - it is entirely possible that the most optimal short-term solutions may lead to **the worst possible long-term outcome.**
+
+`Condition`
+: **1. Greedy-choice property**
+    : A global optimum can be arrived at by selecting a local optimum. 
+    (which means local optimums make global optimum efficient in the end)
+    : 
+: **2. Optimal substructure**
+    : An optimal solution to the problem contains an optimal solution to subproblems.
+    (It is also related on dynamic programming)
+
+1, 2 are quite same meaning..? lol
+
+`Example`
+: - Activity Selection Problem
+: - Fractional knapsack problem
+: - Kruskal's Algorithm
 
 ---
-
 ### Tasks
 #### `1. MaxNonoverlappingSegments` in codility (Lesson 16)
 : Find a maximal set of non-overlapping segments
@@ -71,7 +95,7 @@ Write an efficient algorithm for the following assumptions:
 ```
 
     
-   
+---
  
 #### `2. TieRopes` in codility (Lesson 16)
 : Tie adjacent ropes to achieve the maximum number of ropes of length >= K
@@ -137,4 +161,7 @@ Write an efficient algorithm for the following assumptions:
     - K is an integer within the range [1..1,000,000,000];
     - each element of array A is an integer within the range [1..1,000,000,000].
 ```
-
+### Important words
+- optimum : 最適なもの
+- optimal solution　: 最適な解決方法
+- property : 特性
