@@ -31,6 +31,7 @@ the ways to use 'Linear structure'
 | Situations | Stack can be used in most situations | Queue is used in situations where data needs to be processed in order of the time. |
 | Examples of situation | - undo <br> - make the strings in reverse order | - BFS (Breadth-First Search) <br> - waiting process |
 | Implementation | Stack, ArrayDeque | LinkedList, |
+| Useful algorithm | DFS (Depth-First Search) | BFS (Breadth-First Search) |
 
 ### ⭐️ Methods in Java8 
 ### **`Stack`**
