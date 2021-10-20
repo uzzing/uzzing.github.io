@@ -4,7 +4,7 @@ date: 2021-10-20 10:50PM
 excerpt: "coding test"
 
 author: Yuha
-categories: [Development, DataStructure, Algorithm]
+categories: [Development, Algorithm]
 tags: [datastructure, java, eng, algorithm, programmers]
 
 #toc: true
@@ -13,12 +13,14 @@ tags: [datastructure, java, eng, algorithm, programmers]
 last_modified_at: 2021-10-20 10:50PM
 ---
 # Queue
+<https://uzzing.github.io/posts/stack-queue/>
 
+---
 ## Task
-### **`2. 프린터`** in Programmers (Level 2)
-<https://programmers.co.kr/learn/courses/30/lessons/42586>
+### 2. 프린터 in Programmers (Level 2)
+<https://programmers.co.kr/learn/courses/30/lessons/42587>
 
-#### **`⭐️ The point`**
+#### 📌 The point
 - Code that is often used when using queue 
 ```java
 while (!queue.isEmpty()) {
@@ -30,7 +32,7 @@ while (!queue.isEmpty()) {
 - Input class to queue
 - Used boolean flag
 
-#### **` Answer`**
+#### 📌  Answer
 ```java
 import java.util.Queue;
 import java.util.LinkedList;
@@ -111,3 +113,4 @@ return 내가 인쇄를 요청한 문서가 몇 번째로 인쇄되는지
 ```
 ---
 My head can't work well anymore....
+I'm gonna go back home

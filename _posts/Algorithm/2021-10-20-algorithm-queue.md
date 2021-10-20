@@ -4,7 +4,7 @@ date: 2021-10-20 4:02PM
 excerpt: "coding test"
 
 author: Yuha
-categories: [Development, DataStructure, Algorithm]
+categories: [Development, Algorithm]
 tags: [datastructure, java, eng, algorithm, programmers]
 
 #toc: true
@@ -13,6 +13,9 @@ tags: [datastructure, java, eng, algorithm, programmers]
 last_modified_at: 2021-10-20 4:02PM
 ---
 # Queue
+<https://uzzing.github.io/posts/stack-queue/>
+
+---
 
 ## Task
 ### **`1. 기능개발`** in Programmers (Level 2)
