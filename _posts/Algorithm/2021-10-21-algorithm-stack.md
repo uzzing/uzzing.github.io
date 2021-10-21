@@ -31,7 +31,7 @@ last_modified_at: 2021-10-21 9:6PM
 - Used **custom class**
 - Used **stack** efficiently
 
-
+#### 📌 Answer
 ```java
 import java.util.Stack;
 
@@ -78,7 +78,6 @@ class Solution {
         
         return answer;
     }
-
 }
 /**
 [Question]

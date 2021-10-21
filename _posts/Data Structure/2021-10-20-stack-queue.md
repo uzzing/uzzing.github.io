@@ -25,13 +25,13 @@ the ways to use 'Linear structure'
 
 ||Stack|Queue|
 |:---:|:---|:---|
-|**Feature**|LIFO (Last In Fisrt Out)|FIFO (First In First Out)|
-|Input / Output | push(data) / pop() | enQueue() / deQueue() |
-| Parts | -| front : the part only remove data / rear : the part only insert data |
-| Situations | Stack can be used in most situations | Queue is used in situations where data needs to be processed in order of the time. |
-| Examples of situation | - undo <br> - make the strings in reverse order | - BFS (Breadth-First Search) <br> - waiting process |
-| Implementation | Stack, ArrayDeque | LinkedList, |
-| Useful algorithm | DFS (Depth-First Search) | BFS (Breadth-First Search) |
+| **Feature** |LIFO (Last In Fisrt Out)|FIFO (First In First Out)|
+| **Input / Output** | push(data) / pop() | enQueue() / deQueue() |
+| **Parts** | -| front : the part only remove data / rear : the part only insert data |
+| **Situations** | Stack can be used in most situations | Queue is used in situations where data needs to be processed in order of the time. |
+| **Examples of situation** | - undo <br> - make the strings in reverse order | - BFS (Breadth-First Search) <br> - waiting process |
+| **Implementation** | Stack, ArrayDeque | LinkedList, ArrayDeque |
+| **Useful algorithm** | DFS (Depth-First Search) | BFS (Breadth-First Search) |
 
 ### ⭐️ Methods in Java8 
 ### **`Stack`**

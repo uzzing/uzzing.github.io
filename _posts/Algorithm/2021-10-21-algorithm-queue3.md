@@ -24,6 +24,7 @@ last_modified_at: 2021-10-21 7:39PM
 #### ⭐️ The point
 - Used **while loop and break**
 
+#### 📌 Answer
 ```java
 import java.util.Queue;
 import java.util.LinkedList;
