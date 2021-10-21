@@ -10,18 +10,18 @@ tags: [datastructure, java, eng, algorithm, programmers]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-20 4:02PM
+last_modified_at: 2021-10-21 7:39PM
 ---
 # Queue
-<https://uzzing.github.io/posts/stack-queue/>
+[Explain](https://uzzing.github.io/posts/stack-queue/)
 
 ---
 
 ## Task
-### **`1. 기능개발`** in Programmers (Level 2)
+### 1. 기능개발 in Programmers (Level 2)
 <https://programmers.co.kr/learn/courses/30/lessons/42586>
 
-#### **`⭐️ The point`**
+#### 📌 The point
 - Code that is often used when using queue 
 ```java
 while (!queue.isEmpty()) {
@@ -32,7 +32,7 @@ while (!queue.isEmpty()) {
 - Convert List<Integer> to int[] array
 : listname.stream().mapToInt(x -> x).toArray();
 
-#### **` Answer`**
+#### 📌 Answer
 ```java
 import java.util.Queue;
 import java.util.LinkedList;

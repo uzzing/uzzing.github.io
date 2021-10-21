@@ -10,13 +10,14 @@ tags: [datastructure, java, eng, algorithm, programmers]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-20 10:50PM
+last_modified_at: 2021-10-21 7:39PM
 ---
 # Queue
-<https://uzzing.github.io/posts/stack-queue/>
+[Explain](https://uzzing.github.io/posts/stack-queue/)
 
 ---
 ## Task
+[Previous task 1](https://uzzing.github.io/posts/algorithm-queue/)
 ### 2. 프린터 in Programmers (Level 2)
 <https://programmers.co.kr/learn/courses/30/lessons/42587>
 
