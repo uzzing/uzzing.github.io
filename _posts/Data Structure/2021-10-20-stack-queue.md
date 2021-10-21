@@ -10,7 +10,7 @@ tags: [datastructure, java, eng]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-20 4:02PM
+last_modified_at: 2021-10-21 7:52PM
 ---
 # Stack 🆚 Queue
 ---
@@ -25,7 +25,7 @@ the ways to use 'Linear structure'
 
 ||Stack|Queue|
 |:---:|:---|:---|
-||LIFO (Last In Fisrt Out)|FIFO (First In First Out)|
+|**Feature**|LIFO (Last In Fisrt Out)|FIFO (First In First Out)|
 |Input / Output | push(data) / pop() | enQueue() / deQueue() |
 | Parts | -| front : the part only remove data / rear : the part only insert data |
 | Situations | Stack can be used in most situations | Queue is used in situations where data needs to be processed in order of the time. |
