@@ -10,7 +10,7 @@ tags: [algorithm, java, eng]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-21 9:11PM
+last_modified_at: 2021-10-22 2:17PM
 ---
 # DFS vs BFS
 ---
@@ -21,10 +21,10 @@ last_modified_at: 2021-10-21 9:11PM
 ||BFS|DFS|
 |:---:|:---|:---|
 |**Full form**|Breadth-First Search|Depth-First Search|
-|**Data structure often used** | BFS uses **Queue** data structure for finding the shortest path. (FIFO)| DFS uses **Stack** data structure to remember the nodes already is visited (LIFO) |
+|**Data structure often used** | BFS uses **Queue** data structure to save the nodes which is already visited for finding the shortest path. (FIFO)| DFS uses **Stack** data structure to save the nodes which is already visited (LIFO) |
 |**Features**| BFS is better when target is **closer** to Source.<br> -> There is no need of backtracking. | DFS is better when target is **far** from source<br> -> There is a need of backtracking.<br> -> There is a possibility that it visit all nodes.|
-|**Advantages**| A BFS will **find the shortest path** between the starting point and any other reachable node| - A DFS on a binary tree generally **requires less memory** than BFS. <br> - DFS can be **easily implemented with recursion**. |
-|**Disadvantages**| A BFS on a binary tree generally requires more memory than a DFS.| A DFS doesn't necessarily find the shortest path to a node, while DFS does. |
+|**Advantages**| A BFS will **find the shortest path** between the starting point and any other reachable node| - A DFS on a binary tree generally **requires less memory** than BFS. <br> - DFS can be **easily implemented with recursion**. <br> - DFS is **faster** than BFS. |
+|**Disadvantages**| - A BFS on a binary tree generally requires more memory than a DFS. <br> - BFS is slower than DFS. | A DFS doesn't necessarily find the shortest path to a node, while DFS does. |
 |**Situation**| - A problem requiring the shortest path | - A problem that you must store the features of each path |
 
 ---
