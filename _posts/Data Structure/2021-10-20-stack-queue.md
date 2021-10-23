@@ -48,6 +48,7 @@ the ways to use 'Linear structure'
 
 ```java
 import java.util.Stack;
+import java.util.stream.Collectors;
 
 Stack<String> stack1 = new Stack<String>();
 // = Deque<String> stack1 = new ArrayDeque<String>(); for complex and speedy stack
