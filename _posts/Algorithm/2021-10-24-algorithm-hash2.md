@@ -1,6 +1,6 @@
 ---
 title:  "[Algorithm] Hash2"
-date: 2021-10-24 5:20AM
+date: 2021-10-24 5:36 PM
 excerpt: "coding test"
 
 author: Yuha
@@ -10,7 +10,7 @@ tags: [algorithm, java, eng, programmers]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-24 5:200PM
+last_modified_at: 2021-10-24 5:36 PM
 ---
 # Hash
 `HashMap<Key, Value>`
