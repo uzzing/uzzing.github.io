@@ -54,7 +54,7 @@ class Solution {
 - citations : 논문의 인용 횟수
 - return H-Index
 ```
-The source : <https://haeng-on.tistory.com/7>
+The source : <https://ju-nam2.tistory.com/74>
 
 ### 2. Use Binary Search
 But this way takes **longer** than `1. Use Arrays.sort()`
