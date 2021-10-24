@@ -10,30 +10,29 @@ tags: [algorithm, java, eng, programmers]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-24 7:08PM
+last_modified_at: 2021-10-24 7:35PM
 ---
 # Heap
-In Java, **PriorityQueue** can be used as a Heap.
+In Java, **PriorityQueue** can be used as a Heap. <br>
+
 [Detail](https://uzzing.github.io/posts/heap/)
 
 ---
 
 # Task
-# 2. 더 맵게 in Programmers (Level 2)
+# 더 맵게 in Programmers (Level 2)
 ---
 ## 📌 Problem
 <https://programmers.co.kr/learn/courses/30/lessons/42626>
 
 ## 📌 The point
-- Use **PriorityQueue** & Min-Heap
-    `PriorityQueue<Integer> heap = new PriorityQueue<>();`
+- Use **PriorityQueue & Min-Heap**
+    - `PriorityQueue<Integer> heap = new PriorityQueue<>();`
     - to pick the minimum value
 
 
-
-`When I face problems which need to get the minimum value or the maximum value,
-It's more efficient if I use PriorityQueue!
-Let's apply it afterwards 🎃`
+`When I face problems which need to get the minimum value or the maximum value,`
+`It's more efficient if I use PriorityQueue! Let's apply it afterwards 🎃`
 
 ## 📌 Answer
 ```java
