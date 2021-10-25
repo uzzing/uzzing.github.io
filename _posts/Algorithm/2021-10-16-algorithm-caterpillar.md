@@ -4,7 +4,7 @@ date: 2021-10-16 7:31PM
 excerpt: "coding test"
 
 author: Yuha
-categories: [Development, Algorithm]
+categories: [Development, Algorithm, Codility]
 tags: [algorithm, java, eng, codility]
 
 #toc: true
@@ -15,9 +15,9 @@ last_modified_at: 2021-10-16 7:31PM
 
 ## What is caterpillar method?
 ```text
-1️⃣ The idea is to check elements in a way that’s reminiscent of movements of a caterpillar.
-
-2️⃣ The caterpillar crawls through the array. We remember the front and back positions of the caterpillar, and at every step either of them is moved forward.
+The caterpillar crawls through the array. 
+We remember the front and back positions of the caterpillar,
+and at every step either of them is moved forward.
 ```
 
 ---
@@ -49,12 +49,14 @@ class Solution {
 ```
 
 #### ⭐️ `Review`
+
 #### Set : no sequence, no duplicate
-| **class** | features | method |
+
+| Class | Features | Method |
 |:---:|:---:|:---:|
-|**HashSet**|	순서가 필요없는 데이터를 hash table에 저장. Set 중에 가장 성능이 좋음| add(), size(), equals(), hashCode(), removeAll() |
-|**TreeSet**|	저장된 데이터의 값에 따라 정렬됨. red-black tree 타입으로 값이 저장. HashSet보다 성능이 느림|
-|**LinkedHashSet**|	연결된 목록 타입으로 구현된 hash table에 데이터 저장. 저장된 순서에 따라 값이 정렬. 셋 중 가장 느림|
+| **HashSet** |	순서가 필요없는 데이터를 hash table에 저장. Set 중에 가장 성능이 좋음 | add(), size(), equals(), hashCode(), removeAll() |
+| **TreeSet** |	저장된 데이터의 값에 따라 정렬됨. red-black tree 타입으로 값이 저장. HashSet보다 성능이 느림 ||
+| **LinkedHashSet** | 연결된 목록 타입으로 구현된 hash table에 데이터 저장. 저장된 순서에 따라 값이 정렬. 셋 중 가장 느림 ||
 
 #### `Question`
 
@@ -107,7 +109,7 @@ class Solution {
             }
             else { // case2. distinct
                 seen[A[q]] = true;
-                count += (q - p + 1); // not just 'count++;', it has to be 
+                count += (q - p + 1); // not just 'count++;', it has to count 'p ~ q'
                 q++;
             }
 

@@ -4,7 +4,7 @@ date: 2021-10-25 10:03AM
 excerpt: "coding test"
 
 author: Yuha
-categories: [Development, Algorithm]
+categories: [Development, Algorithm, Leetcode]
 tags: [algorithm, java, eng, leetcode]
 
 #toc: true

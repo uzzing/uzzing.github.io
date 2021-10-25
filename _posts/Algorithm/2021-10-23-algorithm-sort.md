@@ -4,7 +4,7 @@ date: 2021-10-23 7:30PM
 excerpt: "coding test"
 
 author: Yuha
-categories: [Development, Algorithm]
+categories: [Development, Algorithm, Programmers]
 tags: [algorithm, java, eng, programmers]
 
 #toc: true

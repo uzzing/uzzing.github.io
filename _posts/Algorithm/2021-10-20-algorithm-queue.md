@@ -4,7 +4,7 @@ date: 2021-10-20 4:02PM
 excerpt: "coding test"
 
 author: Yuha
-categories: [Development, Algorithm]
+categories: [Development, Algorithm, Programmers]
 tags: [datastructure, java, eng, algorithm, programmers]
 
 #toc: true

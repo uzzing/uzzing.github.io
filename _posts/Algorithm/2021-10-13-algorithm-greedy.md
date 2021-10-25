@@ -4,7 +4,7 @@ date: 2021-10-13 1:8PM
 excerpt: "coding test"
 
 author: Yuha
-categories: [Development, Algorithm]
+categories: [Development, Algorithm, Codility]
 tags: [algorithm, java, eng, codility]
 
 #toc: true
@@ -33,7 +33,7 @@ last_modified_at: 2021-10-20 12:43AM
 : **1. Greedy-choice property**
     : A global optimum can be arrived at by selecting a local optimum. 
     (which means local optimums make global optimum efficient in the end)
-    : 
+    
 : **2. Optimal substructure**
     : An optimal solution to the problem contains an optimal solution to subproblems.
     (It is also related on dynamic programming)

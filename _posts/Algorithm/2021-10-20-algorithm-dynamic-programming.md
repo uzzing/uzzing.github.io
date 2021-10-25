@@ -4,8 +4,8 @@ date: 2021-10-20 1:15AM
 excerpt: "coding test"
 
 author: Yuha
-categories: [Development, Algorithm]
-tags: [algorithm, java, eng, codility]
+categories: [Development, Algorithm, Codility]
+tags: [algorithm, java, eng]
 
 #toc: true
 #toc_sticky: true
