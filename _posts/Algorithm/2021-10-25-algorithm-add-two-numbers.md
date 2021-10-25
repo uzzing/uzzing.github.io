@@ -13,7 +13,7 @@ tags: [algorithm, java, eng, leetcode]
 last_modified_at: 2021-10-25 2:57PM
 ---
 
-# 'Min Stack' in LeetCode (Easy)
+# 'Add Two Numbers' in LeetCode (Medium)
 ---
 ## 📌 Problem
 <https://leetcode.com/problems/add-two-numbers/>
