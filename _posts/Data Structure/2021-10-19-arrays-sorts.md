@@ -1,5 +1,5 @@
 ---
-title:  "[Data Sturcture] Arrays.sort() (+ with lambda)"
+title:  "[Data Sturcture] sort methods"
 date: 2021-10-19 1:31PM
 excerpt: "coding test"
 
@@ -10,17 +10,25 @@ tags: [datastructure, java, eng]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-19 1:31PM
+last_modified_at: 2021-11-4 12:22AM
 ---
 
-## What is ###.sort()?
+## 📌 What is ###.sort()?
 
 ```text
-1️⃣ sort the datas of array or list ascending order or descending order
+sort the datas of array or list ascending order or descending order
 ```
-## Sort array
-### `Arrays.sort()`
-the primitive way to sort **array** until Java7
+
+---
+
+## 📌 Sort array
+
+### Arrays.sort()
+
+- The primitive way to sort array 
+- It will **increase time complexity** on your code **from O(n) to O(n log n)** (average is O(n log n)) and also increase **space complexity from O(n/2) to O(1)**.<br>
+Because  in Java 8, Arrays.sort is implemented with **Dual-pivot Quicksort algorithm**, not single pivot.
+
 ```java
 // Ascending order
 int[] array = new int[] {2, -1, 9, 4};
@@ -37,10 +45,13 @@ System.out.prinln(array); // {9, 4, 2, -1};
 Arrays.sort(array, (int x[] - int y[] -> x[0] - y[0]))
 ```
 
-## Sort list
-### **`1. Collections.sort()`**
+---
 
-the way to sort **list** until Java7
+## 📌 Sort list
+### **1. Collections.sort()**
+
+- The way to sort list
+- It will increase a time complexity of **O(n log n)**
 
 ```java
 import java.util.ArrayList;
@@ -71,9 +82,9 @@ public class Sort {
 }
 ```
 
-### **`2. List.sort()`**
+### **2. List.sort()**
 
-the ways to sort **list** from Java8
+- The way to sort list
 
 ```java
 import java.util.ArrayList;
@@ -104,7 +115,8 @@ public class Sort {
 }
 ```
 
-###**`2. List.sort() with lambda`**
+#### **2-1. List.sort() with lambda**
+
 ```java
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -128,8 +140,15 @@ public class Sort {
 
         list.sort(comparing(English::getAlphabet)); // suppose there is a class 'English' which has a getter 'getAlphabet'
 ```
+
 ---
 
 ### `Important words`
 - ascending  
 - descending
+
+---
+
+The source :
+<https://stackoverflow.com/questions/22571586/will-arrays-sort-increase-time-complexity-and-space-time-complexity> <br>
+<https://atechdaily.com/posts/Difference-between-Arrays-sort-and-Collections-sort>
