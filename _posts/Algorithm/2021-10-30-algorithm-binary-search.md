@@ -10,7 +10,7 @@ tags: [algorithm, java, eng]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-11-3 11:35PM
+last_modified_at: 2021-11-3 11:49PM
 ---
 
 # **What is binary search algorithm?**
@@ -50,7 +50,9 @@ int BSearch(int arr[], int target) {
 }
 ```
 - Recursive binary search
+
 ```java
+
 // space complexity : O(log N)
 // time complexity : O(log n)
 
@@ -93,4 +95,21 @@ def binarySearch(A, x):
 ```
 ---
 
-The source : <https://cjh5414.github.io/binary-search/>
+## 📌 Binary search tree vs Binary search
+
+### **- Binary search tree**
+- A tree **data structure**
+- Each node has up to 2 children 
+- **The left subtree of a node** contains only nodes with keys **less than the node's key**
+- **The right subtree of a node** contains only nodes with keys **greater than the node's key**
+
+### **- Binary search**
+
+- **An algorithm** that works on a **sorted** data structure (usually, but not necessarily, an array)
+- At each step, looking at the value in the middle and **recursing to either the left or the right**, depending on **whether** the target value is **smaller or greater than the value in the middle** (or stopping if it's equal).
+
+---
+
+The source : <https://cjh5414.github.io/binary-search/> <br>
+
+<https://stackoverflow.com/questions/21586085/difference-between-binary-search-and-binary-search-tree>
