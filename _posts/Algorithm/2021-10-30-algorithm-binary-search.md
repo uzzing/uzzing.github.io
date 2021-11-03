@@ -10,7 +10,7 @@ tags: [algorithm, java, eng]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-30 11:50AM
+last_modified_at: 2021-11-3 11:35PM
 ---
 
 # **What is binary search algorithm?**
@@ -24,8 +24,13 @@ last_modified_at: 2021-10-30 11:50AM
 ```
 ## 📌 Example
 ### - Java
-- for loop
+- Iterative binary seach
+: **More efficient** than recursive binary search
+
 ```java
+// space complexity : O(1)
+// time complexity : O(log n)
+
 int BSearch(int arr[], int target) {
     int low = 0;
     int high = arr.length - 1;
@@ -44,23 +49,30 @@ int BSearch(int arr[], int target) {
     return -1;
 }
 ```
-- recursion
+- Recursive binary search
 ```java
+// space complexity : O(log N)
+// time complexity : O(log n)
+
 int BSearchRecursive(int arr[], int target, int low, int high) {
-    if (low > high)
-        return -1;
+    
+    if (low > high) return -1;
 
     int mid = (low + high) / 2;
+    
     if (arr[mid] == target)
         return mid;
     else if (arr[mid] > target)
-        return BSearchRecursive(arr, target, low, mid-1);
+        return BSearchRecursive(arr, target, low, mid - 1);
     else
-        return BSearchRecursive(arr, target, mid+1, high);
+        return BSearchRecursive(arr, target, mid + 1, high);
 }
 ```
 
-The source : <https://cjh5414.github.io/binary-search/>
+
+The major difference between the **iterative** and **recursive version of Binary Search** is that the recursive version has a space complexity of **O(log N)** while the iterative version has a space complexity of **O(1)**. 
+Hence, even though recursive version may be easy to implement, **the iterative version is efficient**.
+Time complexity is same.
 
 
 ### - Python
@@ -80,3 +92,5 @@ def binarySearch(A, x):
     return result
 ```
 ---
+
+The source : <https://cjh5414.github.io/binary-search/>
