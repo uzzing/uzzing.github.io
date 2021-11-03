@@ -10,10 +10,10 @@ tags: [algorithm, java, eng]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-11-3 11:49PM
+last_modified_at: 2021-11-3 11:58PM
 ---
 
-# **What is binary search algorithm?**
+## 📌 **What is binary search algorithm?**
 ```text
 1️⃣ Choose the middle element, as doing so causes the set of candidates to be halved each time.
 (To reduce the set of candidates maximally.)
@@ -22,7 +22,10 @@ last_modified_at: 2021-11-3 11:49PM
 
 3️⃣ The time complexity is O(log n)
 ```
-## 📌 Example
+
+---
+
+## 📌 **Implementation**
 ### - Java
 - Iterative binary seach
 : **More efficient** than recursive binary search
@@ -76,26 +79,14 @@ The major difference between the **iterative** and **recursive version of Binary
 Hence, even though recursive version may be easy to implement, **the iterative version is efficient**.
 Time complexity is same.
 
-
-### - Python
-```python
-def binarySearch(A, x): 
-    n = len(A)
-    beg=0
-    end=n-1
-    result = -1
-    while (beg <= end):
-        mid = (beg + end) / 2 
-        if (A[mid] <= x):
-            beg = mid + 1
-            result = mid 
-        else:
-            end = mid - 1 
-    return result
-```
 ---
 
-## 📌 Binary search tree vs Binary search
+## 📌 **When is binary search best applied?**
+Binary search is an efficient algorithm for **finding an item in an sorted array.**
+
+---
+
+## 📌 **Binary search tree vs Binary search**
 
 ### **- Binary search tree**
 - A tree **data structure**
