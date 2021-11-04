@@ -1,16 +1,16 @@
 ---
-title:  "[Algorithm] Find First and Last Position of Element in Sorted Array"
+title:  "[Binary Search] Find First and Last Position of Element in Sorted Array"
 date: 2021-10-29 3:22PM
 excerpt: "coding test"
 
 author: Yuha
 categories: [Development, Algorithm]
-tags: [algorithm, java, eng, leetcode]
+tags: [algorithm, java, eng, leetcode, binary search]
 
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-10-29 3:22PM
+last_modified_at: 2021-11-4 2:40PM
 ---
 # 'Find First and Last Position of Element in Sorted Array' in LeetCode (Medium)
 

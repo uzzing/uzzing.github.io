@@ -5,12 +5,12 @@ excerpt: "coding test"
 
 author: Yuha
 categories: [Development, Algorithm]
-tags: [algorithm, java, eng]
+tags: [algorithm, java, eng, binary search]
 
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2021-11-3 11:58PM
+last_modified_at: 2021-11-4 2:42PM
 ---
 
 ## 📌 **What is binary search algorithm?**
