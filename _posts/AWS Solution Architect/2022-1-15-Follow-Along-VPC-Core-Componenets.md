@@ -1,5 +1,5 @@
 ---
-title:  "[AWS Solution Architect] Create VPC, IGW, Route Tables and Subnets"
+title:  "[AWS Solution Architect] Follow Along - Create VPC, IGW, Route Tables and Subnets"
 date: 2022-1-15 2:17PM
 excerpt: "aws"
 

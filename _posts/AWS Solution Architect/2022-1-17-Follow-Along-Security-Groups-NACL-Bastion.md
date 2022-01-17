@@ -1,5 +1,5 @@
 ---
-title:  "[AWS Solution Architect] Security Groups, NACL and Bastion"
+title:  "[AWS Solution Architect] Follow Along - Security Groups, NACL and Bastion"
 date: 2022-1-17 2:54PM
 excerpt: "aws"
 
