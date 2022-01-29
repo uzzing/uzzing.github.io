@@ -10,7 +10,7 @@ tags: [aws, certification, eng]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2022-1-27 3:00PM
+last_modified_at: 2022-1-29 11:52PM
 ---
 
 ## Content Outline
@@ -49,20 +49,20 @@ last_modified_at: 2022-1-27 3:00PM
 📓 (3:56:12) EC2 - 2022/01/26
 📓 (4:04:49) EC2 Pricing - 2022/01/26
 📓 (4:13:46) AMI - 2022/01/26
-📓 (4:23:36) Autoscaling Groups - 2022/01/27
-📓 (4:35:28) ELB - 2022/01/27
+📓 (4:23:36) Autoscaling Groups - 2022/01/29
+📓 (4:35:28) ELB - 2022/01/29
 📓 (5:49:50) EFS - 2022/01/27
 📓 (6:02:27) EBS - 2022/01/27
-📓 (6:21:02) CloudFront 
-📓 (7:00:11) RDS 
-📓 (7:06:56) Aurora 
-📓 (7:23:54) DynamoDB 
+📓 (6:21:02) CloudFront - 2022/01/30
+📓 (7:00:11) RDS - 2022/01/30
+📓 (7:06:56) Aurora - 2022/01/30
+📓 (7:23:54) DynamoDB - 2022/01/30
 📓 (7:31:40) CloudFormation - 2022/01/26
-📓 (7:51:56) CloudWatch 
-📓 (8:06:30) CloudTrail 
-📓 (8:18:16) Lambda 
-📓 (8:28:30) SQS 
-📓 (8:37:01) SNS 
+📓 (7:51:56) CloudWatch - 2022/01/29
+📓 (8:06:30) CloudTrail - 2022/01/30
+📓 (8:18:16) Lambda - 2022/01/30
+📓 (8:28:30) SQS - 2022/01/29
+📓 (8:37:01) SNS - 2022/01/29
 📓 (8:42:21) ElastiCache 
 📓 (9:02:49) Elastic Beanstalk 
 📓 (9:12:41) API Gateway 
