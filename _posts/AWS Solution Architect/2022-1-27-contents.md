@@ -47,18 +47,18 @@ last_modified_at: 2022-1-29 11:52PM
 
 ## Contents
 
-- 📓 (0:58:39) S3 - 2022/01/10, 2022/01/27
+- 📓 (0:58:39) S3 - 2022/01/10, 2022/01/31
 - 📓 (1:09:27) Snowball - 2022/01/14
-- 📓 (1:26:19) VPC Endpoints - 2022/01/14
-- 📓 (1:29:09) VPC Flow Logs - 2022/01/14
-- 📓 (1:32:30) NACL - 2022/01/15
-- 📓 (1:38:39) Security Groups - 2022/01/15
+- 📓 (1:26:19) VPC Endpoints - 2022/01/14 (module3)
+- 📓 (1:29:09) VPC Flow Logs - 2022/01/14 (module3)
+- 📓 (1:32:30) NACL - 2022/01/15 (module3)
+- 📓 (1:38:39) Security Groups - 2022/01/15 (module3)
 - 📓 (1:42:45) NAT - 2022/01/15
-- 📓 (2:50:37) IAM - 2022/01/18
-- 📓 (2:58:12) Cognito 
-- 📓 (3:20:41) CLI & SDK 
-- 📓 (3:30:00) DNS 
-- 📓 (3:45:07) Route 53
+- 📓 (2:50:37) IAM - 2022/01/18 (module3)
+- 📓 (2:58:12) Cognito - 2022/01/31
+- 📓 (3:20:41) CLI & SDK - 2022/01/31
+- 📓 (3:30:00) DNS - 2022/01/31
+- 📓 (3:45:07) Route 53 - 2022/01/31
 <br>
 
 - 📓 (3:56:12) EC2 - 2022/01/26 (module1)
@@ -84,13 +84,13 @@ last_modified_at: 2022-1-29 11:52PM
 - 📓 (8:37:01) SNS - 2022/01/29
 <br>
 
-- 📓 (6:21:02) CloudFront
-- 📓 (8:42:21) ElastiCache
-- 📓 (8:43:03) High Availability (HA)
-- 📓 (9:02:49) Elastic Beanstalk 
-- 📓 (9:12:41) API Gateway 
-- 📓 (9:20:26) Kinesis 
-- 📓 (9:28:52) Storage Gateway
+- 📓 (6:21:02) CloudFront - 2022/01/31 (module2)
+- 📓 (8:42:21) ElastiCache - 2022/01/31 (module2)
+- 📓 (8:43:03) High Availability (HA) - 2022/01/31 (module1)
+- 📓 (9:02:49) Elastic Beanstalk - 2022/01/31 (module4)
+- 📓 (9:12:41) API Gateway - 2022/01/31 (module3)
+- 📓 (9:20:26) Kinesis - 2022/01/31
+- 📓 (9:28:52) Storage Gateway(File Gateway) - 2022/01/31
 
 Reference :
 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!), Youtube, uploaded by freeCodeCamp.org, 12/24/2022, 
