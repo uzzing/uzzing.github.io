@@ -1,6 +1,6 @@
 ---
 title:  "[AWS Solution Architect] Contents & I finally got pass! "
-date: 2022-1-27 3:00PM
+date: 2022-2-10 1:30PM
 excerpt: "aws"
 
 author: Yuha
