@@ -1,7 +1,7 @@
 ---
 title:  "[Tokyo] Preparing to leave for tokyo"
-date: 2022-3-9 10:34AM
-excerpt: "tokyo"
+date: 2022-3-9 10:34PM
+ excerpt: "tokyo"
 
 author: Yuha
 categories: [Tokyo]
@@ -10,11 +10,11 @@ tags: [tokyo]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2022-3-9 10:34PM
+last_modified_at: 2022-3-10 8:44PM
 ---
 
 ### 【 To do 】
-- <b> 【 Change Mobile Carrier Plan of Korea 】</b> 
+- <b> 【 Change Korea Mobile Carrier Plan 】</b> 
     - 30.01.22 ⭕️
     - 스노우맨 알뜰폰 2200
 
@@ -22,9 +22,10 @@ last_modified_at: 2022-3-9 10:34PM
     - 20.02.22 ⭕️ 
     - American Tourister
     - Assurance period : ~20.02.25
+    <img width="300" src="https://user-images.githubusercontent.com/83699657/157652513-42db5de6-ee4f-492a-864e-7d0c7b3909f2.jpeg">
 
 - <b>【 Apply VISA 】</b>
-    - 04.03.2022 ⭕️
+    - JEC 대행사 04.03.2022 ⭕️
     - Documents
         - 사증 신청서
         - 여권 원본
@@ -33,15 +34,30 @@ last_modified_at: 2022-3-9 10:34PM
         - COE 원본
         - COE 사본
         - ERFS (03.03.2022)
+    <img width="300" src="https://user-images.githubusercontent.com/83699657/157652309-8d6c0423-720d-465d-8d91-742e43064792.jpeg"><img width="300" src="https://user-images.githubusercontent.com/83699657/157652243-98d67bdd-f913-4a41-af5d-1674033170ce.jpeg"><img width="300" src="https://user-images.githubusercontent.com/83699657/157650775-15898a7e-8ec0-4f48-b5b4-f5861bd3771e.jpeg">
 
 - <b>【 VIVA X Hana Card 】</b>
     - 04.03.22 ⭕️
+    <img width="300" src="https://user-images.githubusercontent.com/83699657/157649099-502cec2f-7244-40cc-9507-52917becc31e.jpeg">
 
 - <b>【 Reservation Flight Ticket 】</b>
     - 07.03.22 ⭕️
     - Asiana Airline, 24.03.22
+    <img width="500" src="https://user-images.githubusercontent.com/83699657/157649777-4a520d7d-5f2f-476a-ba94-9251fb48ff0f.jpeg">
 
 - <b>【 Buy Japan USIM for 10 days 】</b>
+    - 10일간 10GB (+ 초과 시 무제한)
+    - 20300원
+    <img width="500" src="https://user-images.githubusercontent.com/83699657/157649714-a0aa8a9e-4135-426f-956c-8d69f84370ea.jpeg">
+
+
+- <b>【 Contract Sharehouse 】</b>
+    - crosshouse
+    - 계약 08.03.2022 ⭕️
+    - 초기비용(사례금) 30000円 입금 (09.03.2022) ⭕️
+    - 3월 월세 입금
+    - 입주 28.03.2022 ~
+    <img width="300" src="https://user-images.githubusercontent.com/83699657/157648716-737b040a-7a4e-44f4-82e6-0d10d5e44268.jpeg">
 
 
 - <b>【 Documents 】</b>
@@ -54,6 +70,7 @@ last_modified_at: 2022-3-9 10:34PM
         - (+) APP MySOS
 
     - For emergency
+        - 반명함 사진 8장, 여권 사진 8장 ⭕️
         - 주민등록증 사본 ⭕️
         - 여권 사본 2매 
         - COE 사본 ⭕️
