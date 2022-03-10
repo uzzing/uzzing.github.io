@@ -22,7 +22,7 @@ last_modified_at: 2022-3-10 8:44PM
     - 20.02.22 ⭕️ 
     - American Tourister
     - Assurance period : ~20.02.25
-    <img width="300" src="https://user-images.githubusercontent.com/83699657/157652513-42db5de6-ee4f-492a-864e-7d0c7b3909f2.jpeg">
+    <img width="300" alt="carrier" src="https://user-images.githubusercontent.com/83699657/157652513-42db5de6-ee4f-492a-864e-7d0c7b3909f2.jpeg">
 
 - <b>【 Apply VISA 】</b>
     - JEC 대행사 04.03.2022 ⭕️
@@ -34,21 +34,21 @@ last_modified_at: 2022-3-10 8:44PM
         - COE 원본
         - COE 사본
         - ERFS (03.03.2022)
-    <img width="300" src="https://user-images.githubusercontent.com/83699657/157652309-8d6c0423-720d-465d-8d91-742e43064792.jpeg"><img width="300" src="https://user-images.githubusercontent.com/83699657/157652243-98d67bdd-f913-4a41-af5d-1674033170ce.jpeg"><img width="300" src="https://user-images.githubusercontent.com/83699657/157650775-15898a7e-8ec0-4f48-b5b4-f5861bd3771e.jpeg">
+    <img width="300" alt="coe" src="https://user-images.githubusercontent.com/83699657/157652309-8d6c0423-720d-465d-8d91-742e43064792.jpeg"><img width="300" alt="erfs" src="https://user-images.githubusercontent.com/83699657/157652243-98d67bdd-f913-4a41-af5d-1674033170ce.jpeg"><img width="300" alt="receipt" src="https://user-images.githubusercontent.com/83699657/157650775-15898a7e-8ec0-4f48-b5b4-f5861bd3771e.jpeg">
 
 - <b>【 VIVA X Hana Card 】</b>
     - 04.03.22 ⭕️
-    <img width="300" src="https://user-images.githubusercontent.com/83699657/157649099-502cec2f-7244-40cc-9507-52917becc31e.jpeg">
+    <img width="300" alt="hanacard" src="https://user-images.githubusercontent.com/83699657/157649099-502cec2f-7244-40cc-9507-52917becc31e.jpeg">
 
 - <b>【 Reservation Flight Ticket 】</b>
     - 07.03.22 ⭕️
     - Asiana Airline, 24.03.22
-    <img width="500" src="https://user-images.githubusercontent.com/83699657/157649777-4a520d7d-5f2f-476a-ba94-9251fb48ff0f.jpeg">
+    <img width="500" alt="flight ticket" src="https://user-images.githubusercontent.com/83699657/157649777-4a520d7d-5f2f-476a-ba94-9251fb48ff0f.jpeg">
 
 - <b>【 Buy Japan USIM for 10 days 】</b>
     - 10일간 10GB (+ 초과 시 무제한)
     - 20300원
-    <img width="500" src="https://user-images.githubusercontent.com/83699657/157649714-a0aa8a9e-4135-426f-956c-8d69f84370ea.jpeg">
+    <img width="500" alt="Japan usim" src="https://user-images.githubusercontent.com/83699657/157649714-a0aa8a9e-4135-426f-956c-8d69f84370ea.jpeg">
 
 
 - <b>【 Contract Sharehouse 】</b>
@@ -57,7 +57,7 @@ last_modified_at: 2022-3-10 8:44PM
     - 초기비용(사례금) 30000円 입금 (09.03.2022) ⭕️
     - 3월 월세 입금
     - 입주 28.03.2022 ~
-    <img width="300" src="https://user-images.githubusercontent.com/83699657/157648716-737b040a-7a4e-44f4-82e6-0d10d5e44268.jpeg">
+    <img width="300" alt="sharehouse" src="https://user-images.githubusercontent.com/83699657/157648716-737b040a-7a4e-44f4-82e6-0d10d5e44268.jpeg">
 
 
 - <b>【 Documents 】</b>

@@ -1,5 +1,5 @@
 ---
-title:  "[AWS Solution Architect] Contents"
+title:  "[AWS Solution Architect] Contents & I finally got pass! "
 date: 2022-1-27 3:00PM
 excerpt: "aws"
 
@@ -10,7 +10,19 @@ tags: [aws, certification, eng]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2022-1-29 11:52PM
+last_modified_at: 2022-2-10 1:10PM
+---
+
+## Certification
+<img width="800" alt="3" src="https://user-images.githubusercontent.com/83699657/157660120-e17ad887-09fc-4f9b-9a74-759b2e170b76.png">
+
+<img width="530" alt="1" src="https://user-images.githubusercontent.com/83699657/157660182-b2b6fc7b-eb4b-487e-b11a-fee449e44b67.png">
+<img width="530" alt="2" src="https://user-images.githubusercontent.com/83699657/157660184-f6d94794-319b-44f9-8bac-0bd74059cfee.png">
+
+
+- Study period 
+    : 2022.01.10 ~ 2022.02.09 (30days)
+
 ---
 
 ## Content Outline
@@ -55,7 +67,8 @@ last_modified_at: 2022-1-29 11:52PM
 - 📓 (1:38:39) Security Groups - 2022/01/15 (module3)
 - 📓 (1:42:45) NAT - 2022/01/15
 - 📓 (2:50:37) IAM - 2022/01/18 (module3)
-- 📓 (2:58:12) Cognito - 2022/01/31
+- 📓 (2:58:12) Cognito 
+           - 2022/01/31
 - 📓 (3:20:41) CLI & SDK - 2022/01/31
 - 📓 (3:30:00) DNS - 2022/01/31
 - 📓 (3:45:07) Route 53 - 2022/01/31
@@ -95,3 +108,10 @@ last_modified_at: 2022-1-29 11:52PM
 Reference :
 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!), Youtube, uploaded by freeCodeCamp.org, 12/24/2022, 
 <https://www.youtube.com/watch?v=Ia-UEYYR44s>
+
+---
+## Dump
+I studied <b>examtopic dump(574 questions)</b> twice and tried to analyze and remember some keywords on each question. Some questions have the specific pattern like having same keywords. But I heard there are not similar questions on the real test. I felt I need to study and get used to many kinds of situation of efficient AWS solutions. And When I take a test, I exactly felt it and I did good study.
+
+For studying AWS SAA, I could know and understand flow of AWS and how to use many AWS solutions easily and efficiently.
+I totally can sure that AWS SAA will help our backend development skill improve.
