@@ -9,7 +9,7 @@ tags: [tokyo]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2022-3-10 8:45PM
+last_modified_at: 2022-3-14 10:32PM
 ---
 
 ### 【 To do 】
@@ -48,7 +48,7 @@ last_modified_at: 2022-3-10 8:45PM
     - 10.03.2022 ⭕️
     - 10일간 10GB (+ 초과 시 무제한)
     - 20300원
-    <img width="500" alt="Japan usim" src="https://user-images.githubusercontent.com/83699657/157649714-a0aa8a9e-4135-426f-956c-8d69f84370ea.jpeg">
+    <img width="300" alt="Japan usim" src="https://user-images.githubusercontent.com/83699657/157649714-a0aa8a9e-4135-426f-956c-8d69f84370ea.jpeg"> <img width="300" alt="Japan usim2" src="https://user-images.githubusercontent.com/83699657/158179610-1ef828aa-fa5e-4284-af8f-a7a941bf8676.jpeg">
 
 
 - <b>【 Contract Sharehouse 】</b>
@@ -59,15 +59,30 @@ last_modified_at: 2022-3-10 8:45PM
     - 입주 28.03.2022 ~
     <img width="300" alt="sharehouse" src="https://user-images.githubusercontent.com/83699657/157648716-737b040a-7a4e-44f4-82e6-0d10d5e44268.jpeg">
 
+- <b>【 Book a hotel for self-isolation 】</b>
+    - 14.03.2022 ⭕️
+    - agoda 
+    - 24.03.2022 ~ 28.03.2022 (4日間, Shinjuku, 254,488won)
+    - Official reference : <https://www.cantour.co.jp/news/3593-2>
+    <img width="300" alt="hotel" src="https://user-images.githubusercontent.com/83699657/158180623-188bd5ce-8f8b-4438-868d-f0757ba38741.jpeg">
+
+- <b>【 Book a pcr test in Japan 】</b>
+    - 14.03.2022 ⭕️
+    - The place I booked (Shinjuku, 7800円): <https://access.his-j.com/01/B39/>
+    - Official reference : <https://www.c19.mhlw.go.jp/search/>
+    <img width="300" alt="pcrtest" src="https://user-images.githubusercontent.com/83699657/158180741-c16a9c40-226f-464f-a347-d0d87a5dd1b3.jpeg">
+
+
 
 - <b>【 Documents 】</b>
     - For entry
-        - 영문 PCR 검사증명서 
-            - 씨젠 의료재단 (3/22 10AM~)
+        - 영문 PCR TEST in Korea 
+            - 씨젠 의료재단 (3/22 1:30PM, 119000won)
+            <img width="300" alt="pcrtest2" src="https://user-images.githubusercontent.com/83699657/158180045-a97f3761-f513-4ab9-a62b-fb1ee8b94218.jpeg">
         - 영문 백신 접종증명서 2매 ⭕️
         - 서약서
         - 질문서
-        - (+) APP MySOS
+        - (+ APP MySOS에 미리 등록)
 
     - For emergency
         - 반명함 사진 8장, 여권 사진 8장 ⭕️
