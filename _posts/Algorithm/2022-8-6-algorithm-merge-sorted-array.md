@@ -1,6 +1,6 @@
 ---
-title:  "[] Implement strStr()"
-date: 2022-8-5 1:30PM
+title:  "[Tail] Merge Sorted Array"
+date: 2022-8-5 6:00PM
 excerpt: "coding test"
 
 author: Yuha
@@ -10,41 +10,30 @@ tags: [algorithm, java, eng, leetcode]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2022-8-4 1:30PM
+last_modified_at: 2022-8-17 6:00PM
 ---
 
-# 'Remove Duplicates from Sorted Array' in LeetCode (Easy)
+# ' Merge Sorted Array' in LeetCode (Easy)
 
 ---
 
 ## 📌 Problem
-<https://leetcode.com/problems/implement-strstr/>
+<https://leetcode.com/problems/merge-sorted-array/>
 
 ## 📌 Answer
-
-### The Point 
-- String methods : `contains()`, `indexOf()`
-
-```java
-class Solution {
-    public int strStr(String haystack, String needle) {
-        if (needle == "" || haystack == "") return 0;
-	    else if (haystack.contains(needle)) return haystack.indexOf(needle);
-	    else return -1;
-    }
-}
-```
+### The point
+- put data from the last index to first index (descending order)
 
 ```java
 class Solution {
-    public int strStr(String haystack, String needle) {
-        for (int i = 0; ; i++) {
-            for (int j = 0; ; j++) {
-            if (j == needle.length()) return i;
-            if (i + j == haystack.length()) return -1;
-            if (needle.charAt(j) != haystack.charAt(i + j)) break;
-            }
-        }
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        
+        int tail1 = m - 1, tail2 = n - 1, finished = m + n -1;
+        while (tail1 >= 0 && tail2 >= 0)
+            nums1[finished--] = nums1[tail1] > nums2[tail2] ? nums1[tail1--] : nums2[tail2--];
+        
+        while (tail2 >= 0)
+            nums1[finished--] = nums2[tail2--];
     }
 }
 ```

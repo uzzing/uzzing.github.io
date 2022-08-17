@@ -1,6 +1,6 @@
 ---
-title:  "[] Implement strStr()"
-date: 2022-8-5 1:30PM
+title:  "[Easy] Plus One"
+date: 2022-8-5 2:30PM
 excerpt: "coding test"
 
 author: Yuha
@@ -10,41 +10,37 @@ tags: [algorithm, java, eng, leetcode]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2022-8-4 1:30PM
+last_modified_at: 2022-8-17 6:00PM
 ---
 
-# 'Remove Duplicates from Sorted Array' in LeetCode (Easy)
+# 'Plus One' in LeetCode (Easy)
 
 ---
 
 ## 📌 Problem
-<https://leetcode.com/problems/implement-strstr/>
+<https://leetcode.com/problems/plus-one/>
 
 ## 📌 Answer
-
-### The Point 
-- String methods : `contains()`, `indexOf()`
-
 ```java
 class Solution {
-    public int strStr(String haystack, String needle) {
-        if (needle == "" || haystack == "") return 0;
-	    else if (haystack.contains(needle)) return haystack.indexOf(needle);
-	    else return -1;
-    }
-}
-```
-
-```java
-class Solution {
-    public int strStr(String haystack, String needle) {
-        for (int i = 0; ; i++) {
-            for (int j = 0; ; j++) {
-            if (j == needle.length()) return i;
-            if (i + j == haystack.length()) return -1;
-            if (needle.charAt(j) != haystack.charAt(i + j)) break;
+    public int[] plusOne(int[] digits) {
+        
+        for (int i = digits.length - 1; i >= 0; i--) {
+            if (digits[i] != 9) {
+                digits[i]++;
+                break;
+            } else {
+                digits[i] = 0;
             }
         }
+        
+        if (digits[0] == 0) {
+            int[] res = new int[digits.length + 1];
+            res[0] = 1;
+            return res;
+        }
+        
+        return digits;
     }
 }
 ```
