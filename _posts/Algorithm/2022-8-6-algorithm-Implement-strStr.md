@@ -1,6 +1,6 @@
 ---
-title:  "[] Implement strStr()"
-date: 2022-8-5 1:30PM
+title:  "[Java String methods] Implement strStr()"
+date: 2022-8-5 2:00PM
 excerpt: "coding test"
 
 author: Yuha
@@ -10,10 +10,10 @@ tags: [algorithm, java, eng, leetcode]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2022-8-4 1:30PM
+last_modified_at: 2022-8-17 10:30AM
 ---
 
-# 'Remove Duplicates from Sorted Array' in LeetCode (Easy)
+# ' Implement strStr()' in LeetCode (Easy)
 
 ---
 
@@ -24,6 +24,8 @@ last_modified_at: 2022-8-4 1:30PM
 
 ### The Point 
 - String methods : `contains()`, `indexOf()`
+
+- reference: <https://www.w3schools.com/java/java_ref_string.asp>
 
 ```java
 class Solution {

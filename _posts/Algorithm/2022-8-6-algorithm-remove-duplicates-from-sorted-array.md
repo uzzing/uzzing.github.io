@@ -1,5 +1,5 @@
 ---
-title:  "[] Remove Duplicates from Sorted Array"
+title:  "[Easy] Remove Duplicates from Sorted Array"
 date: 2022-8-5 1:30PM
 excerpt: "coding test"
 
@@ -10,7 +10,7 @@ tags: [algorithm, java, eng, leetcode]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2022-8-4 1:30PM
+last_modified_at: 2022-8-5 1:30PM
 ---
 
 # 'Remove Duplicates from Sorted Array' in LeetCode (Easy)
