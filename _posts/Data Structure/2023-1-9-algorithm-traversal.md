@@ -10,7 +10,7 @@ tags: [algorithm, java, eng, leetcode]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2023-1-9 4:30PM
+last_modified_at: 2023-1-9 5:30PM
 ---
 
 # Tree Traversal 
@@ -32,6 +32,12 @@ last_modified_at: 2023-1-9 4:30PM
 
 ## Problem
 <https://leetcode.com/problems/binary-tree-preorder-traversal/>
+
+## Result
+```
+Input: root = [1,null,2,3]
+Output: [1,2,3]
+```
 
 ## Answer 
 
@@ -73,3 +79,54 @@ class Solution {
 
 - Reference
 : <https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/45417/preorder-traversal-java-solution-both-iteration-and-recursion/?orderBy=most_votes&languageTags=java>
+
+
+# Example : postorder traversal 
+
+## Problem
+<https://leetcode.com/problems/binary-tree-postorder-traversal/>
+
+## Result
+```
+Input: root = [1,null,2,3]
+Output: [3,2,1]
+```
+
+## Answer 
+```java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public List<Integer> postorderTraversal(TreeNode root) {
+        LinkedList<Integer> result = new LinkedList<>();
+        if (root == null) return result;
+
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+
+        while (!stack.isEmpty()) {
+            TreeNode node = stack.pop();
+            result.addFirst(node.val); // difference
+            if (node.left != null) stack.push(node.left); // difference
+            if (node.right != null) stack.push(node.right); // difference
+        }
+        return result;
+    }
+}
+```
+
+- Reference :
+<https://leetcode.com/problems/binary-tree-postorder-traversal/solutions/45556/java-simple-and-clean/?orderBy=most_votes&languageTags=java>
