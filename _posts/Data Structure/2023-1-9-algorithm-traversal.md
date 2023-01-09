@@ -1,5 +1,5 @@
 ---
-title:  "Tree Traversal (preorder, inorder, postorder"
+title:  "[Data Sturcture] Tree Traversal (preorder, inorder, postorder)"
 date: 2023-1-9 2:00PM
 excerpt: "coding test"
 
@@ -10,7 +10,7 @@ tags: [algorithm, java, eng, leetcode]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2023-1-9 2:00PM
+last_modified_at: 2023-1-9 2:30PM
 ---
 
 # Tree Traversal 
