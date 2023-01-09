@@ -10,7 +10,7 @@ tags: [algorithm, java, eng, leetcode]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2023-1-9 2:30PM
+last_modified_at: 2023-1-9 4:30PM
 ---
 
 # Tree Traversal 
@@ -29,6 +29,11 @@ last_modified_at: 2023-1-9 2:30PM
 
 
 # Example : preorder traversal 
+
+## Problem
+<https://leetcode.com/problems/binary-tree-preorder-traversal/>
+
+## Answer 
 
 ```java
 /**
@@ -65,3 +70,6 @@ class Solution {
     }
 }
 ```
+
+- Reference
+: <https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/45417/preorder-traversal-java-solution-both-iteration-and-recursion/?orderBy=most_votes&languageTags=java>
