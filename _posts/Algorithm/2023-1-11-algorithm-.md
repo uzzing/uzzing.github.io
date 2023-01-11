@@ -10,7 +10,7 @@ tags: [algorithm, java, eng, leetcode]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2023-1-11 4:00PM
+last_modified_at: 2023-1-11 4:30PM
 ---
 
 # 'Rotate List (Medium)'
@@ -43,12 +43,15 @@ class Solution {
         dummy.next = head;
         ListNode fast = dummy, slow = dummy;
         
-        int i;
-        // Get the total length
-        for (i = 0; fast.next != null; i++) fast = fast.next;
-        
-        // Get the i - k % i th node
-        for (int j = i - k % i; j > 0; j--) slow = slow.next;
+        int len;
+        // Get the total length of the list
+        for (len = 0; fast.next != null; len++) {
+            fast = fast.next;
+        }
+        // Get the (len - k%len)th node
+        for (int j = len - (k % len); j > 0; j--) {
+            slow = slow.next;
+        }
         
         // Do the rotation
         fast.next = dummy.next;
