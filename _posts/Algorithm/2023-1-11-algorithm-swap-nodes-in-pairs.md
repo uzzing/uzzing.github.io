@@ -1,5 +1,5 @@
 ---
-title:  "[Easy] Swap Nodes in Pairs"
+title:  "[Medium] Swap Nodes in Pairs"
 date: 2023-1-11 2:00PM
 excerpt: "coding test"
 

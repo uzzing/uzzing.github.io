@@ -1,5 +1,5 @@
 ---
-title:  "[Easy] Rotate List"
+title:  "[Medium] Rotate List"
 date: 2023-1-11 4:00PM
 excerpt: "coding test"
 
