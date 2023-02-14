@@ -10,7 +10,7 @@ tags: [eng]
 #toc: true
 #toc_sticky: true
  
-last_modified_at: 2022-10-4 2:00PM
+last_modified_at: 2023-2-14 5:00PM
 ---
 
 # Architecture
@@ -211,6 +211,13 @@ elasticsearch:
 
 ---
 
+# Search API : response
+
+<img width="889" alt="Screen Shot 2023-02-14 at 5 04 01 PM" src="https://user-images.githubusercontent.com/83699657/218675595-1e93106d-9b48-4d36-840c-fdb04ff277b6.png">
+
+
+---
+
 
 [Reference]
 
@@ -233,3 +240,5 @@ SpringBoot ElasticSearch using Spring Data | Java Techie <https://www.youtube.co
 <https://engineering.mercari.com/en/blog/entry/20220311-operational-tips-on-using-elasticsearch/>
 
 <https://juntcom.tistory.com/137>
+
+<https://victorydntmd.tistory.com/313>
